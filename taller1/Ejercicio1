@@ -1,0 +1,3 @@
+git config --global user.email “tucorreo@tuservicio.com”
+● git config --global user.name “tu_usuario”
+● git commit
